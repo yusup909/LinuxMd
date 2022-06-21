@@ -12,36 +12,36 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['94784506970']
-global.premium = ['94784506970']
-global.ownernomer = '94784506970'
-global.ownername = 'Achi Fernando'
-global.botname = '🎭ᴀʟᴘʜᴀ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ-ᴍᴅ ᴇᴅɪᴛɪᴏɴ🎭 v1.0.0'
-global.footer = ' ᴀʟᴘʜᴀ ʙᴏᴛ-ᴍᴅ ᴇᴅɪᴛɪᴏɴ'
-global.ig = 'https://github.com/ALPHA-OFFICIAL-TEAM'
-global.region = 'India, South India, Kerala'
-global.sc = 'https://github.com/ALPHA-OFFICIAL-TEAM'
-global.myweb = 'https://www.youtube.com/c/AchiBrolk'
-global.packname = 'ALPHA WA BOT MD'
-global.author = 'D.U.A.N.FERNANDO '
+global.owner = ['6283897390164','6285391576039']
+global.premium = ['']
+global.ownernomer = '6283897390164','6285391576039'
+global.ownername = 'Y/Glospot'
+global.botname = 'GlospotBot'
+global.footer = 'LinuxUi'
+global.ig = 'https://saweria.co/YUSUP909'
+global.region = 'Indonesia,Isekai'
+global.sc = 'https://github.com/Yusup909'
+global.myweb = 'https://www.youtube.com/c/YUSUP909'
+global.packname = 'LinuxUi'
+global.author = 'Y/Glospot'
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '🚢'
 global.mess = {
-    success: 'Done ✓',
-    admin: 'This Feature Is Only For Admin!',
-    botAdmin: 'Bot Must Be Admin First!',
-    owner: 'This Feature Is Only For Owner!',
-    group: 'Feature Used Only For Groups!',
-    private: 'Features Used Only For Private Chat!',
+    success: 'Selesai Tod ✓',
+    admin: 'Only Admin Broo!',
+    botAdmin: 'Bot nya jadiin admin dlu gblk!',
+    owner: 'Khusus owner deck!',
+    group: 'Hanya bisa di gunakan di grup!',
+    private: 'Only For Private Chat!',
     bot: 'This Feature Is Only For Bot',
-    wait: 'Please Wait...',
-    error: 'Error! Maybe Api Key Is Expired🤔!',
-    endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
+    wait: 'Sedang di proses...',
+    error: 'Eror!?, mungkin apykey nya sudah habjs🤔!',
+    endLimit: 'Limit Lu habis bro, Beli lagi atau gk main rpg, kalo gk ngerti lu bisa nunggu reset 24jam tod',
 }
     global.limitawal = {
     premium: "Infinity",
-    free: 12,
+    free: 20,
     monayawal: 1000
 }
    global.rpg = {
