@@ -13,7 +13,7 @@ global.APIKeys = {
 
 //customize settings\\
 global.owner = ['6283897390164','6285391576039']
-global.premium = ['']
+global.premium = ['6285781151132']
 global.ownernomer = '6283897390164','6285391576039'
 global.ownername = 'Y/Glospot'
 global.botname = 'GlospotBot'
